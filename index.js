@@ -173,7 +173,8 @@ app.post('/webhook', line.middleware(lineConfig), async (req, res) => {
             
                 break
 
-            case 'postback' : console.log('แจ่มแมว')
+            case 'postback' : console.log('แจ่มแมว') 
+            break
         }
 
 
