@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "find-land-home-app",
+  "private_key_id": "5e8702d1c4cdb80312a9f066d023839478ed4914",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDxfyBmaeXh/hMN\nRxcXuJnpOjbT4BTy0miEJX4sXcJiZgPpXkTBoHx1kuvvsu02ORlaB5MGRv+9aMPB\nPpQ1iqJibCw1tFXYncIT0J2PYdE4ka6we3pWDlFJ5UF6Kl1Hj/apeWNv+F/UTD4q\nGWycrkNUbU/53C/eazSHyUfeBPdYDj++Na/sYMD6Ez3/GoxsygxGM/wzRveNAl6y\nH79bL0pe42ed9SD9l1U2auhtTvt0yrjsx+8Jdz6ybt8J0f2gv3piHu6dpRnUqur9\nZFzY1oKUFMHXCpz/IU51Er5Qh1bMy64oJkxFvE68RbA1Gia7cIBsvoUev5bdAavB\nJ56z7jt/AgMBAAECggEAVQwYNPkGZFg+DWcD0u7IBULjHCrGNd2zwRYTITzDwDN9\nHSp9vFLwgdeED55Lu9TQAMy6EnPejK3ggqWvPEvedBr0VtVzhh3Iw4Gse1pPfESR\n6MUTiEryhbufG47f2tvwWi7NvhkSZomTOvBJN8SHIax9hdjtYr8OeOOB08ab9P4g\nem4eLumrKyoz99GoIYXk7W+EJVlLITzqSTDpJAOUqoDM0yRH2JHHc8GC78z8b2Jt\nkGh8hOkJB5Lp6uAKLLnlfwh/n+kvSt/SruPY2xyMux1Y7g9uelfEniZlM+2n1DQQ\n1sKUcsUoj9Dk73JzqBEt4sKm9Mz0V3P9LN7mctvxgQKBgQD9pkLDhLo/5KdWntBo\npQnGCb/69iLWlIt+XoQx3X9xIe2h5VIjXMCCKOnQ8pQIUrlcBGFg6LyGriaFG3OL\nsu4nAF+xLgWhmgBNfywBiy0ce2VEZgPjwCeUuCrOclrGjPGc36412S9KmUqI6grc\nMqMsvqaN4HcpR0IsCth5mfpB6QKBgQDzvAkC+fnNm7TafLYKuMbboPC/nB2lVblj\naLDpdFE/7PMHbhZQGQ6Mtp9Gq/qdRyvtsQ07uNkWx13ltohzB5gn5DWgjF0xjRxm\nfeGqYK4DyC4R22pSj2OCTT6BR0sL7NdwMrDuWGPlHO5SrkWms7IyXFzkyuJezltx\ngUoM23UJJwKBgFvP1JbE8k2yTEf0UGewZWtDmDQU5+NX/W4OdDdAf6LJryRMx4B5\nUE1M1eWGCMNCfkmqZD0ZwTPW0aaYmyhT6hQ/9GNDz1IBVl62y4z7faazm6I4cuv7\nX9hbGVOE3QrFdadc58giBxYvimUooim2Qo4trEfqmfddDby3aEgLziQRAoGBAIG5\nRc6Yv5ToV7SmBbnlKKoCmcBR1hGGc7puISLP7uKoOZ1twWB2RaEtHc7ef++vzrie\nsF1l/9041UgLA8q9cwVgWA6QRpW19jSysSYeeN+4bpTAhHFWse7LMAZcrJu3Pd8Q\ni8z/rINoB4xoBtg38hMNx79aIGu3R0I9Pu1i7IKnAoGAJUKg0Udf0e3ksHYNJraw\nxTsaqtjb+NgZkFvRiWZltWcXz9mhK7FO7P4nDkRDPnVMq0xpdvNR1NOM+rmb2uwR\n5X/vS+6yA3wtzRJzm51mPounjAUBzejUuShfvKHhqU5SfNdPRk0MSatkUgPd6O4P\n1SEc/7Eeb8vUkv4iRoZk628=\n-----END PRIVATE KEY-----\n",
+  "client_email": "find-land-home-line-app@find-land-home-app.iam.gserviceaccount.com",
+  "client_id": "115080502975388847946",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/find-land-home-line-app%40find-land-home-app.iam.gserviceaccount.com"
+}

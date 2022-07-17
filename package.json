@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@google-cloud/automl": "^3.0.0",
+    "@google-cloud/vision": "^2.4.2",
+    "@line/bot-sdk": "^7.5.0",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^10.1.0",
+    "google-auth-library": "^8.1.1",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7"
+  }
+}
+
+{
+  "scripts": {
+    "start": "index.js"
+  }
+}
